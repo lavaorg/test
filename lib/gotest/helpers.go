@@ -1,4 +1,4 @@
-package testutil
+package gotest
 
 //Copyright (c) 2016 William Charczuk.
 //Use of this source code is governed by an MIT license that can
